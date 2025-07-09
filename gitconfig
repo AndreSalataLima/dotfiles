@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andre.salatalima@gmail.com
+	name = andre lima
